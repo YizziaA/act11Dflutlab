@@ -14,9 +14,9 @@ class LocationCard extends StatelessWidget {
           children: [
             Image.asset(
               'assets/map.png',
-              width: 100,
+              width: 90,
             ),
-            const SizedBox(width: 10),
+            const SizedBox(width: 8),
             Column(
               crossAxisAlignment: CrossAxisAlignment.start,
               children: [

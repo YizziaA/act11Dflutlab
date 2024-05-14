@@ -21,7 +21,7 @@ class HomePage extends StatelessWidget {
           children: [
             const Text("Bienvenid@"),
             Text(
-              "Veterinaria Monje 0509",
+              "Veterinaria Monge 0509",
               style: Theme.of(context).textTheme.labelMedium,
             ),
           ],
